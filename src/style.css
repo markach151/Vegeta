@@ -1,0 +1,40 @@
+body {
+  background: black;
+}
+#header {
+  text-align:center; 
+  margin: 20px 0px 20px 0px; 
+  color: #FFD700;
+}
+#img-caption {
+  text-align: center; 
+  font-size: 10px; 
+  font-style: italic; 
+  color: #FFD700;
+}
+#img- div {
+  height: auto; 
+  width: auto; 
+  max-width: 500px; 
+  max height: 1000px;
+} 
+#image {
+  width: 100%; 
+  height: auto;
+  max-width: 225px; 
+  max-height: 350px; 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#tribute-info {
+  color: #FFD700; 
+  font-size: 14px; 
+  margin: 40px 40px 40px 40px; 
+  text-align: center; 
+  background: #161616; 
+} 
+#link {
+  text-align: center; 
+  font-size: 24px; 
+} 
